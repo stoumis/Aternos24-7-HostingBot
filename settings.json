@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "stoumis-bihf.aternos.me:31347",
+    "port": 31347,
     "version": "",
     "try-creative": false
   },
